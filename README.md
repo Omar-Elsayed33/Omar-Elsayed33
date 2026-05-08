@@ -1,16 +1,50 @@
-## Hi there 👋
+# Omar El-Sayed
 
-<!--
-**Omar-Elsayed33/Omar-Elsayed33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Technical Manager | SaaS & ERP Solutions Architect | PMP Certified
 
-Here are some ideas to get you started:
+I build scalable SaaS systems, ERP-integrated platforms, offline-first operational workflows, and real-time synchronization architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With 13+ years of experience across SaaS engineering, Flutter architecture, Odoo ERP integrations, and technical leadership, I focus on building systems that are reliable, scalable, and operationally resilient.
+
+---
+
+## Core Expertise
+
+* SaaS Architecture
+* Odoo ERP Integrations
+* Flutter Cross-Platform Systems
+* Offline-First POS Workflows
+* WebSocket Real-Time Communication
+* Distributed Operational Systems
+* Docker & Linux Infrastructure
+* Cloud Operations (AWS / Cloudflare / VPS)
+* Technical Leadership & Delivery
+* AI-Enabled Business Automation
+
+---
+
+## Current Focus
+
+* AI-powered operational systems
+* ERP-connected SaaS platforms
+* Real-time business workflows
+* POS synchronization architecture
+* Infrastructure-aware product engineering
+
+---
+
+## Engineering Interests
+
+* Distributed Systems
+* Real-time Architectures
+* Offline Synchronization
+* DevOps & Infrastructure
+* SaaS Scalability
+* Operational Reliability
+
+---
+
+## Connect
+
+LinkedIn:
+https://www.linkedin.com/in/omar-elsayed-farag
